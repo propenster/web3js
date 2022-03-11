@@ -1,0 +1,21 @@
+{
+  "name": "web3jsethereum",
+  "version": "1.0.0",
+  "description": "This is my first trial at Web3JS and Ethereum DApps Development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web3",
+    "web3js",
+    "ethereum",
+    "blockchain",
+    "dapps"
+  ],
+  "author": "Faith Olusegun - propenster",
+  "license": "MIT",
+  "dependencies": {
+    "web3": "^1.6.1"
+  }
+}
